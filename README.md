@@ -1,32 +1,42 @@
 
-## WriteUps
+### WriteUps
 
-Notes that to articulate problem solving methodologies from the following labs:
+## Here I will provide writeups from the below labs:
 
 ---
 
 ## NICE Challenge Project: [Visit](https://nice-challenge.com/)
 
-<p align="center">
-<img width="100%" height="200" src="img/nice.jpg">
-</p>
+<br>
+
+<img align="center" width="100%" height="200" src="img/nice.jpg">
+
+<br>
+<br>
 
 ## Tryhackme Cyber Security Training: [Visit](https://tryhackme.com)
 
-<p align="center">
-<img width="100%" height="200" src="img/THMlogo.png">
-</p>
+<br>
+
+<img align="center" width="100%" height="200" src="img/THMlogo.png">
+
+<br>
+<br>
 
 ## Hackthebox Pentest Labs [Visit](https://hackthebox.com)
 
-<p align="center">
-<img width="100%" height="200" src="img/nice.jpg">
-</p>
+<br>
+
+<img align="center" width="100%" height="200" src="img/nice.jpg">
+
+<br>
+<br>
 
 ## ImmersiveLabs [Visit](https://www.immersivelabs.com/)
 
-<p align="center">
-<img width="100%" height="200" src="img/immersivelabs.jpeg">
-</p>
+<br>
+
+<img align="center" width="100%" height="200" src="img/immersivelabs.jpeg">
+
 
 ---
