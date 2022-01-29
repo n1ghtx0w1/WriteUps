@@ -1,9 +1,9 @@
-<p style="text-align: center;">
+
 ## WriteUps
-</p>
-<p>
+
 Notes that to articulate problem solving methodologies from the following labs:
-<p>
+
+---
 
 ## NICE Challenge Project: [Visit](https://nice-challenge.com/)
 
@@ -28,4 +28,5 @@ Notes that to articulate problem solving methodologies from the following labs:
 <p align="center">
 <img width="100%" height="200" src="img/immersivelabs.jpeg">
 </p>
-</p>
+
+---
