@@ -1,7 +1,6 @@
 <p style="text-align: center;">
-
 ## WriteUps
-
+</p>
 <p>
 Notes that to articulate problem solving methodologies from the following labs:
 <p>
