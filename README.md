@@ -27,7 +27,7 @@
 
 <br>
 
-<img align="center" width="100%" height="200" src="img/nice.jpg">
+<img align="center" width="100%" height="200" src="img/htb.png">
 
 <br>
 <br>
